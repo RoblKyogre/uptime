@@ -23,10 +23,6 @@ sites:
     url: https://cloud.craftingcomrades.net/
   - name: Jellyfin
     url: https://jellyfin.craftingcomrades.net/
-  - name: Minecraft
-    check: "tcp-ping"
-    url: craftingcomrades.net
-    port: 25565
   - name: VIAaaS
     url: https://via.craftingcomrades.net/
 
