@@ -33,7 +33,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Crafting Comrades Server Status
-  theme: ocean
+  themeUrl: https://status.craftingcomrades.net/comrade.css
   navbar:
     - title: Status
       href: /
