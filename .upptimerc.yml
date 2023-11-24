@@ -31,9 +31,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.craftingcomrades.net
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/RoblKyogre/uptime/master/assets/icon.svg
+  logoUrl: https://cdn.statically.io/gh/RoblKyogre/uptime/master/assets/icon.svg
   name: Crafting Comrades Server Status
-  themeUrl: https://raw.githubusercontent.com/RoblKyogre/uptime/master/assets/comrade.css
+  themeUrl: https://cdn.statically.io/gh/RoblKyogre/uptime/master/assets/comrade.css
   navbar:
     - title: Status
       href: /
