@@ -95,18 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.craftingcomrades.net.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.85%",
+    "uptimeDay": "89.89%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "97.85%",
     "time": 2443,
     "timeDay": 7803,
     "timeWeek": 2443,
     "timeMonth": 2443,
     "timeYear": 2443,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 146
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "https://cloud.craftingcomrades.net/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.craftingcomrades.net.ico",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5239,
-    "timeDay": 1567,
-    "timeWeek": 5239,
-    "timeMonth": 5239,
-    "timeYear": 5239,
+    "status": "up",
+    "uptime": "97.86%",
+    "uptimeDay": "89.90%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "97.86%",
+    "time": 5474,
+    "timeDay": 3497,
+    "timeWeek": 5474,
+    "timeMonth": 5474,
+    "timeYear": 5474,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 145
     }
   },
   {
