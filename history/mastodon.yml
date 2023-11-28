@@ -1,7 +1,7 @@
 url: https://mastodon.craftingcomrades.net/
-status: down
-code: 500
-responseTime: 15366
-lastUpdated: 2023-11-28T07:20:10.394Z
+status: up
+code: 200
+responseTime: 224
+lastUpdated: 2023-11-28T08:26:42.096Z
 startTime: 2023-11-23T11:01:39.605Z
 generator: Upptime <https://github.com/upptime/upptime>
