@@ -40,19 +40,19 @@
     "url": "https://db.craftingcomrades.net/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/db.craftingcomrades.net.ico",
     "slug": "pocketbase",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10261,
-    "timeDay": 12080,
-    "timeWeek": 10261,
-    "timeMonth": 10261,
-    "timeYear": 10261,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 10470,
+    "timeDay": 12218,
+    "timeWeek": 10470,
+    "timeMonth": 10470,
+    "timeYear": 10470,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 5
     }
   },
   {
