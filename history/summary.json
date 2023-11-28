@@ -76,18 +76,20 @@
     "url": "https://matrix.craftingcomrades.net/_matrix/federation/v1/version",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.craftingcomrades.net.ico",
     "slug": "matrix-backend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1812,
-    "timeDay": 440,
-    "timeWeek": 1812,
-    "timeMonth": 1812,
-    "timeYear": 1812,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1703,
+    "timeDay": 251,
+    "timeWeek": 1703,
+    "timeMonth": 1703,
+    "timeYear": 1703,
+    "dailyMinutesDown": {
+      "2023-11-28": 1
+    }
   },
   {
     "name": "Mastodon",
@@ -95,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.craftingcomrades.net.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "97.70%",
-    "uptimeDay": "88.83%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "97.70%",
-    "uptimeYear": "97.70%",
+    "uptime": "97.18%",
+    "uptimeDay": "86.25%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "97.18%",
     "time": 3066,
     "timeDay": 7930,
     "timeWeek": 3066,
     "timeMonth": 3066,
     "timeYear": 3066,
     "dailyMinutesDown": {
-      "2023-11-28": 161
+      "2023-11-28": 198
     }
   },
   {
@@ -133,18 +135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.craftingcomrades.net.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "97.77%",
-    "uptimeDay": "89.20%",
-    "uptimeWeek": "97.77%",
-    "uptimeMonth": "97.77%",
-    "uptimeYear": "97.77%",
+    "uptime": "97.25%",
+    "uptimeDay": "86.61%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "97.25%",
     "time": 4957,
     "timeDay": 2698,
     "timeWeek": 4957,
     "timeMonth": 4957,
     "timeYear": 4957,
     "dailyMinutesDown": {
-      "2023-11-28": 155
+      "2023-11-28": 192
     }
   },
   {
