@@ -94,18 +94,20 @@
     "url": "https://mastodon.craftingcomrades.net/",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.craftingcomrades.net.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1572,
-    "timeDay": 109,
-    "timeWeek": 1572,
-    "timeMonth": 1572,
-    "timeYear": 1572,
-    "dailyMinutesDown": {}
+    "time": 2443,
+    "timeDay": 7803,
+    "timeWeek": 2443,
+    "timeMonth": 2443,
+    "timeYear": 2443,
+    "dailyMinutesDown": {
+      "2023-11-28": 0
+    }
   },
   {
     "name": "Gitea",
@@ -130,18 +132,20 @@
     "url": "https://cloud.craftingcomrades.net/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.craftingcomrades.net.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5942,
-    "timeDay": 2816,
-    "timeWeek": 5942,
-    "timeMonth": 5942,
-    "timeYear": 5942,
-    "dailyMinutesDown": {}
+    "time": 5239,
+    "timeDay": 1567,
+    "timeWeek": 5239,
+    "timeMonth": 5239,
+    "timeYear": 5239,
+    "dailyMinutesDown": {
+      "2023-11-28": 0
+    }
   },
   {
     "name": "Jellyfin",
