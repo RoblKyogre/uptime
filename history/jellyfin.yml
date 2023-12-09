@@ -1,7 +1,7 @@
 url: https://jellyfin.craftingcomrades.net/
-status: up
-code: 200
-responseTime: 347
-lastUpdated: 2023-12-09T23:15:12.526Z
+status: down
+code: 521
+responseTime: 56
+lastUpdated: 2023-12-09T23:41:30.909Z
 startTime: 2023-11-23T11:02:53.556Z
 generator: Upptime <https://github.com/upptime/upptime>
