@@ -1,7 +1,7 @@
 url: https://matrix.craftingcomrades.net/_matrix/federation/v1/version
-status: down
-code: 523
-responseTime: 2885
-lastUpdated: 2023-12-09T08:44:48.532Z
+status: up
+code: 200
+responseTime: 63
+lastUpdated: 2023-12-09T22:40:56.871Z
 startTime: 2023-11-23T11:01:30.353Z
 generator: Upptime <https://github.com/upptime/upptime>
