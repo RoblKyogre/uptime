@@ -17,7 +17,7 @@ sites:
     url: https://matrix.craftingcomrades.net/_matrix/federation/v1/version
   - name: Mastodon
     url: https://mastodon.craftingcomrades.net/
-  - name: VaultWarden
+  - name: Vaultwarden
     url: https://vault.craftingcomrades.net/
   - name: Gitea
     url: https://git.craftingcomrades.net/
