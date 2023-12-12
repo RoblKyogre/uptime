@@ -14,7 +14,7 @@ sites:
   - name: Matrix (Frontend)
     url: https://matrix.craftingcomrades.net/
   - name: Matrix (Backend)
-    url: https://matrix.craftingcomrades.net/_matrix/federation/v1/version
+    url: https://matrix.craftingcomrades.net/_matrix/client/versions
   - name: Mastodon
     url: https://mastodon.craftingcomrades.net/
   - name: Vaultwarden
