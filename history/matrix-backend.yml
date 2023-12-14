@@ -1,7 +1,7 @@
 url: https://matrix.craftingcomrades.net/_matrix/client/versions
-status: down
-code: 523
-responseTime: 571
-lastUpdated: 2023-12-14T04:31:09.913Z
+status: up
+code: 200
+responseTime: 83
+lastUpdated: 2023-12-14T08:39:41.917Z
 startTime: 2023-11-23T11:01:30.353Z
 generator: Upptime <https://github.com/upptime/upptime>
