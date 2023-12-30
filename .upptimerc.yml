@@ -9,6 +9,8 @@ sites:
     check: "tcp-ping"
     url: craftingcomrades.net
     port: 22
+  - name: Comrade Auth
+    url: https://auth.craftingcomrades.net
   - name: Pocketbase
     url: https://db.craftingcomrades.net/api/health
   - name: Matrix (Frontend)
