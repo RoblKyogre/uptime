@@ -1,7 +1,7 @@
 url: https://db.craftingcomrades.net/api/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-03T02:19:29.470Z
+status: up
+code: 200
+responseTime: 207
+lastUpdated: 2024-01-03T02:45:33.202Z
 startTime: 2023-11-23T11:00:47.725Z
 generator: Upptime <https://github.com/upptime/upptime>
