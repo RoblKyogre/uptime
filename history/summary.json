@@ -76,19 +76,19 @@
     "url": "https://matrix.craftingcomrades.net/",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.craftingcomrades.net.ico",
     "slug": "matrix-frontend",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 342,
-    "timeDay": 352,
-    "timeWeek": 342,
-    "timeMonth": 342,
-    "timeYear": 342,
+    "status": "up",
+    "uptime": "98.84%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
+    "time": 301,
+    "timeDay": 281,
+    "timeWeek": 301,
+    "timeMonth": 301,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2024-02-01": 0
+      "2024-02-01": 33
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://matrix.craftingcomrades.net/_matrix/client/versions",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.craftingcomrades.net.ico",
     "slug": "matrix-backend",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 81,
-    "timeDay": 85,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
+    "status": "up",
+    "uptime": "98.84%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
+    "time": 69,
+    "timeDay": 64,
+    "timeWeek": 69,
+    "timeMonth": 69,
+    "timeYear": 69,
     "dailyMinutesDown": {
-      "2024-02-01": 0
+      "2024-02-01": 33
     }
   },
   {
