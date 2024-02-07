@@ -21,7 +21,7 @@ sites:
     url: https://mastodon.craftingcomrades.net/
   - name: Vaultwarden
     url: https://vault.craftingcomrades.net/
-  - name: Gitea
+  - name: Forgejo
     url: https://git.craftingcomrades.net/
   - name: Nextcloud
     url: https://cloud.craftingcomrades.net/
