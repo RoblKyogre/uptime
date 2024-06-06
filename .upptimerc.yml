@@ -18,6 +18,7 @@ status-website:
   cname: status.craftingcomrades.net
   # baseUrl: /your-repo-name
   logoUrl: https://status.craftingcomrades.net/icon.png
+  favicon: https://status.craftingcomrades.net/icon.png
   name: Crafting Comrades Server Status
   themeUrl: https://status.craftingcomrades.net/comrade.css
   navbar:
