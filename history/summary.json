@@ -4,7 +4,7 @@
     "url": "craftingcomrades.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 47,
     "timeYear": 48,
     "dailyMinutesDown": {
+      "2024-07-11": 0,
       "2024-07-03": 23
     }
   },
