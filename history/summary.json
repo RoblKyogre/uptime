@@ -4,9 +4,9 @@
     "url": "craftingcomrades.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.35%",
@@ -16,6 +16,7 @@
     "timeMonth": 49,
     "timeYear": 51,
     "dailyMinutesDown": {
+      "2024-09-04": 0,
       "2024-07-26": 1115,
       "2024-07-25": 182,
       "2024-07-11": 810,
@@ -27,7 +28,7 @@
     "url": "via.craftingcomrades.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +39,8 @@
     "timeWeek": 54,
     "timeMonth": 50,
     "timeYear": 53,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-04": 0
+    }
   }
 ]
