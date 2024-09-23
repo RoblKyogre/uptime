@@ -7,9 +7,9 @@ sites:
     check: "tcp-ping"
     url: craftingcomrades.net
     port: 22
-  - name: Cloud Server
+  - name: RoblKyogre Server
     check: "tcp-ping"
-    url: via.craftingcomrades.net
+    url: roblkyogre.craftingcomrades.net
     port: 22
 
 status-website:
