@@ -4,9 +4,9 @@
     "url": "craftingcomrades.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
@@ -16,6 +16,7 @@
     "timeMonth": 39,
     "timeYear": 47,
     "dailyMinutesDown": {
+      "2025-01-15": 0,
       "2024-09-12": 59,
       "2024-09-04": 26,
       "2024-07-26": 1115,
@@ -29,7 +30,7 @@
     "url": "roblkyogre.craftingcomrades.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "robl-kyogre-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,6 +41,8 @@
     "timeWeek": 38,
     "timeMonth": 41,
     "timeYear": 45,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-15": 0
+    }
   }
 ]
